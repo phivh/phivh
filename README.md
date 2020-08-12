@@ -27,7 +27,7 @@
 
 <br />
 
-**Connect me: &nbsp;&nbsp;&nbsp;<img src="https://github.com/phivh/phivh/blob/master/assets/mario.gif" width="30px">**
+### Connect me: &nbsp;&nbsp;&nbsp;<img src="https://github.com/phivh/phivh/blob/master/assets/mario.gif" width="30px">**
 
 <code> 
   <a href="mailto:phivhnet@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
