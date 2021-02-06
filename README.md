@@ -2,7 +2,7 @@
 
 <br />
 
-### I am a Front-End developer and software engineer currently living in Vietnam. My interests range from web development to travel. I am also interested in technology and movies.
+### I am a Front-End developer and software engineer currently living in Vietnam.
 
 <br />
 
