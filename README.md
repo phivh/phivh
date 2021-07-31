@@ -2,7 +2,6 @@
 
 <br />
 
-Hi! I’m Phi.
 I am a Front-End developer currently living in Vietnam. My interests range from web to mobile development.
 
 • Over 9 years of Web development as a developer in JavaScript (ES5/ES6, Reactjs), RESTful APIs - Typescript, GraphQL. 4 years of Hybrid mobile development based on Ionic framework, React Native and as a new member interested in Flutter.
