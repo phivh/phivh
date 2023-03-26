@@ -2,9 +2,11 @@
 
 <br />
 
-I am a Front-End / Mobile developer currently living in Vietnam. My interests range from web to mobile development.
+My name is Phi, and I'm excited to share a bit about myself and my expertise in web and mobile development. Over the years, I've had the opportunity to work on a wide range of projects, from developing websites for small businesses to creating complex mobile applications for large corporations.
 
-• Over 9 years of Web development as a developer in JavaScript (ES5/ES6, Reactjs), RESTful APIs - Typescript, GraphQL. 4 years of mobile development based on Ionic framework, React Native and as a new member interested in Flutter.
+• 10 years of Web development as a developer in JavaScript (ES5/ES6, Reactjs), Typescript, RESTful/GraphQL APIs. 
+
+• 6 years of mobile development based on React Native, Ionic framework and as a new member interested in Flutter.
 
 <br />
 
