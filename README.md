@@ -6,7 +6,7 @@ My name is Phi, and I'm excited to share a bit about myself and my expertise in 
 
 • 10 years of Web development as a developer in JavaScript (ES5/ES6, Reactjs), Typescript, RESTful/GraphQL APIs. 
 
-• 6 years of mobile development based on React Native, Ionic framework and as a new member interested in Flutter.
+• 6 years of mobile development based on React Native, Flutter, and Native, good knowledge of mobile deployment process.
 
 <br />
 
